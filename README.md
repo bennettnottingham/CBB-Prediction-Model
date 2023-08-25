@@ -1,6 +1,6 @@
 # CBB-Prediction-Model
 
-Project Description: College Basketball Outcome Prediction System**
+Project Description: College Basketball Outcome Prediction System
 
 **Introduction:**
 The College Basketball Outcome Prediction System is a powerful tool developed to predict the results of college basketball games using a combination of historical team performance data and sophisticated simulation techniques. By incorporating offensive and defensive statistics of college basketball teams, conducting simulations, and enabling customizable team selections, this system provides accurate predictions and insights for a range of users including enthusiasts, bettors, coaches, and teams.
